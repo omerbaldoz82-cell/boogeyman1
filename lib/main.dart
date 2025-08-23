@@ -1,6 +1,5 @@
 import 'dart:io';
-import 'dart:typed_data'; // Uint8List için
-
+// import 'dart:typed_data'; // Uint8List için - file_saver kullandığı için genellikle gerekmez
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:google_mlkit_text_recognition/google_mlkit_text_recognition.dart';
