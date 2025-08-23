@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176599754825",
+    "project_id": "exes-app-2024",
+    "storage_bucket": "exes-app-2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176599754825:android:825bc3ee295f6c9c5ff798",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xaND6ectFNLt8uIppELiKF2KKlOkYek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
